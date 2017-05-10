@@ -13,6 +13,12 @@ toc_footers:
 
 includes:
   - errors
+  - multisection
+
+subsections:
+  multisection:
+    - section_one
+    - section_two
 
 search: true
 ---
